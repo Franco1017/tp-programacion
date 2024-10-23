@@ -8,7 +8,7 @@ def main():
     b=int(input("Ingrese el segundo número: "))
     c=int(input("Ingrese el tercer número: "))
     numero_mayor=maximo(a,b,c)
-    print(f"el numero mayor es{numero_mayor}")
+    print(f"el numero mayor es {numero_mayor}")
     
 if __name__ == "__main__":
     main()
